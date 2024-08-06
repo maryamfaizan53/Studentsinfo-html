@@ -1,0 +1,11 @@
+body{
+    padding: 100px;
+    margin: 50px;
+}
+table{
+    border-color: rgb(122, 99, 70);
+    background-color: bisque;
+}
+#th{
+    box-sizing: border-box;
+}
